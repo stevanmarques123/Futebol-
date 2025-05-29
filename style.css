@@ -3,16 +3,14 @@
 }
 main{
     background-color: darkblue;
-    height: 50px;
     color: red;
 }
 footer{
     background-color: darkred;
-    height: 50px;
     color: aqua;
 }
 header{
     background-color: aquamarine;
-    height: 50px;
+
     color: aquamarine;
 }
