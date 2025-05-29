@@ -1,16 +1,7 @@
 .imagens{
     height: 50px;
-}
-main{
-    background-color: darkblue;
-    color: red;
-}
-footer{
-    background-color: darkred;
-    color: aqua;
-}
-header{
-    background-color: aquamarine;
-
-    color: aquamarine;
+ }
+body{
+    background: green;
+    color: black;
 }
